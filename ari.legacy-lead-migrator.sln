@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ari.legacy-lead-migrator", "ari.legacy-lead-migrator\ari.legacy-lead-migrator.csproj", "{B41B483E-2103-4E2F-8EAD-1B946BDCF8C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ari.legacy-lead-migrator.Tests", "ari.legacy-lead-migrator.Tests\ari.legacy-lead-migrator.Tests.csproj", "{193EEE0A-908C-422E-95FC-61CE0948DBE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B41B483E-2103-4E2F-8EAD-1B946BDCF8C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B41B483E-2103-4E2F-8EAD-1B946BDCF8C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B41B483E-2103-4E2F-8EAD-1B946BDCF8C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B41B483E-2103-4E2F-8EAD-1B946BDCF8C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{193EEE0A-908C-422E-95FC-61CE0948DBE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{193EEE0A-908C-422E-95FC-61CE0948DBE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{193EEE0A-908C-422E-95FC-61CE0948DBE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{193EEE0A-908C-422E-95FC-61CE0948DBE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B03A5BEC-F66C-43E3-BAB9-A0FB9CF91212}
+	EndGlobalSection
+EndGlobal
